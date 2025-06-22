@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Schedulr/static/css/main.31af95a6.css",
+    "main.js": "/Schedulr/static/js/main.051aa969.js",
+    "static/js/453.fd4ec093.chunk.js": "/Schedulr/static/js/453.fd4ec093.chunk.js",
+    "index.html": "/Schedulr/index.html",
+    "main.31af95a6.css.map": "/Schedulr/static/css/main.31af95a6.css.map",
+    "main.051aa969.js.map": "/Schedulr/static/js/main.051aa969.js.map",
+    "453.fd4ec093.chunk.js.map": "/Schedulr/static/js/453.fd4ec093.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31af95a6.css",
+    "static/js/main.051aa969.js"
+  ]
+}
